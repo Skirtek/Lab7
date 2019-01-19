@@ -4,6 +4,8 @@ using namespace std;
 
 int main()
 {
-	cout << "Hello world " << endl;
+	cout << "Witaj! " << endl;
+	cout << "Podchodze z GitHuba"<<endl;
+	cout << "Zostalem uruchomiony w Dockerze :)" <<endl;
 	return 0;
 }
